@@ -2,8 +2,7 @@
 
 I am Volodymyr Yelkin (kitchencel). I am currently studying and working on something cool.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitchencel)](https://github.com/anuraghazra/github-readme-stats)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kitchencel&show_icons=true)
 
 <!---
 kitchencel/kitchencel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
